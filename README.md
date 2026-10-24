@@ -30,7 +30,7 @@ looking_for: Backend, AI engineering or full-stack roles. Remote or on-site.
 | [delta-chat](https://github.com/waterma1one/delta-chat) | Diffs two revisions of an engineering drawing and answers questions about the changes with citations, or declines | Python, OpenCV, Tesseract, BM25, OpenTelemetry |
 | [synthsense](https://github.com/waterma1one/synthsense) | LangGraph agents triage, diagnose and suggest fixes for incidents, streamed live to the browser over SSE | Python, LangGraph, FastAPI, pgvector, React |
 | [rtsp-viewer](https://github.com/waterma1one/rtsp-viewer) | Watch RTSP camera streams in the browser: one FFmpeg process per camera, fanned out to every viewer over WebSockets. [Live demo](https://rtsp-viewer.onrender.com) | Go, FFmpeg, React, TypeScript |
-| [medical-report-ocr-service](https://github.com/waterma1one/medical-report-ocr-service) | Turns lab report PDFs into FHIR R4 Observations with LOINC and UCUM codes | Node.js, TypeScript, Express, zod |
+| [medical-report-ocr-service](https://github.com/waterma1one/medical-report-ocr-service) | Turns lab report PDFs into FHIR R4 Observations with LOINC and UCUM codes. [Deployed instance](https://medical-report-ocr-1d8c.onrender.com/health) | Node.js, TypeScript, Express, zod |
 
 ### Stack
 
