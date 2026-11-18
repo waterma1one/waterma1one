@@ -17,7 +17,7 @@ focus:
 previously:
   - Software Engineer @ Stock Unlock (YC W22), 2025-2026
   - Associate Software Engineer @ CDK Global, 2024-2025
-  - Software Engineer Intern @ CDK Global, 2023-2024
+  - Software Engineer Trainee @ CDK Global, 2023-2024
 looking_for: Backend, AI engineering or full-stack roles. Remote or on-site.
 ```
 
